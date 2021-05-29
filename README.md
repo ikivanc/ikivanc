@@ -1,6 +1,8 @@
 ## Hi there, I'm Ibrahim Kivanc! 👋
 
-A passionate Software Engineer at Microsoft CSE Team (Commercial Software Engineering) and currently living in  Istanbul, Turkey.
+Software Engineer at Microsoft CSE Team (Commercial Software Engineering) and currently living in  Istanbul, Turkey.
+
+I'm passionate about technology and I love meeting with people, so if you like one of projects and want to say hi, I'll be happy to hear!
 
 [![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikivanc&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
